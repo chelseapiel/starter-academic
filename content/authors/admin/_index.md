@@ -22,7 +22,8 @@ organizations:
 # Education to show in About widget
 education:
   courses:
-  - course: Bachelor's Degree in Music Studies with All-Level Teaching Certification
+  - course: Bachelor's Degree in Music Studies
+  - All-Level Teaching Certification
     institution: Texas State University
     year: May 2021
 
