@@ -31,9 +31,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Create lesson plans 
+        * Administer lessons to all K-5 students
+        * Foster a healthy classroom environment
         
   - title: Professor
     company: University X
