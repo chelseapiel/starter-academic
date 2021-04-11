@@ -63,5 +63,5 @@ highlight_name: false
 ---
 
 Chelsea Piel is a music educator from central Texas. She will be graduating from Texas State University in May 2021 with a Bachelor's Degree in Music Studies and an All-Level Teaching Certification in the state of Texas. 
-[click](static/uploads/demo_resume.pdf)
+[click](/uploads/demo_resume.pdf)
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
