@@ -26,8 +26,8 @@ experience:
     company: Teravista Elementary
     company_url: ''
     location: Round Rock, Texas 
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
+    date_start: '2021-03-01'
+    date_end: '2021-05-01'
     description: |2-
         Responsibilities include:
         
