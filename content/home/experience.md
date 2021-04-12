@@ -41,5 +41,9 @@ experience:
     location: Round Rock, Texas
     date_start: '2021-01-01'
     date_end: '2021-03-01'
-    description: Taught electronic engineering and researched semiconductor physics.
+      Responsibilities include:
+        
+        * Create lesson plans 
+        * Administer lessons to all K-5 students
+        * Foster a healthy classroom environment
 ---
