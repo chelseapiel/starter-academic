@@ -35,11 +35,11 @@ experience:
         * Administer lessons to all K-5 students
         * Foster a healthy classroom environment
         
-  - title: Professor
-    company: University X
+  - title: Student Teacher
+    company: Westwood High School 
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
+    location: Round Rock, Texas
+    date_start: '2021-01-01'
+    date_end: '2021-03-01'
     description: Taught electronic engineering and researched semiconductor physics.
 ---
