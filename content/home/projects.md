@@ -10,7 +10,7 @@ headless: true
 weight: 65
 active: true
 
-title: Plans and Policies
+title: Documentation
 subtitle: ''
 
 content:
@@ -26,14 +26,15 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: Other
-    tag: Other
+  - name: All
+    tag: '*'
   - name: Policies
     tag: Policies
   - name: Plans
     tag: Plans
-  - name: All
-    tag: '*'
+  - name: Other
+    tag: Other
+  
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
