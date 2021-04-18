@@ -1,5 +1,5 @@
 ---
-title: Classroom Managment Plan 
+title: Classroom Management Plan 
 summary: 
 tags:
 - Plans
