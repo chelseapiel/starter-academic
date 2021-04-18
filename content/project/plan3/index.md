@@ -1,12 +1,12 @@
 ---
-title: Plan 3
-summary: An example of using the in-built project page.
+title: Classroom Managment Plan 
+summary: 
 tags:
 - Plans
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: uploads/Chelsea_Piel_Resume.pdf
+external_link: uploads/Classroom Management Philosophy.pdf
 
 image:
   caption: Photo by rawpixel on Unsplash
