@@ -1,12 +1,12 @@
 ---
-title: Plan 1
-summary: An example of using the in-built project page.
+title: Elementary Music Lesson Plan 
+summary: An example of Kodaly lessons for Kindergarten-5th grade. 
 tags:
 - Plans
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: uploads/Chelsea_Piel_Resume.pdf
+external_link: uploads/Elementary Lesson Plans.pdf
 
 image:
   caption: Photo by rawpixel on Unsplash
