@@ -1,12 +1,12 @@
 ---
-title: Plan 2
-summary: An example of using the in-built project page.
+title: High School Orchestra Virtual Lesson Plan 
+summary: An example of a virtual lesson administered at Westwood High School.
 tags:
 - Plans
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: uploads/Chelsea_Piel_Resume.pdf
+external_link: uploads/High School Orchestra Virtual Lesson.pdf
 
 image:
   caption: Photo by rawpixel on Unsplash
