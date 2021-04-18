@@ -1,12 +1,12 @@
 ---
 title: Transcript
-summary: An example of using the in-built project page.
+summary: Academic Transcript from Texas State University 
 tags:
 - Other
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: uploads/Chelsea_Piel_Resume.pdf
+external_link: uploads/Piel_Transcript Fall 2020.pdf
 
 image:
   caption: Photo by rawpixel on Unsplash
